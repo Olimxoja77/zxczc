@@ -1,0 +1,35 @@
+header{
+    display: flex;
+    justify-content: space-between;
+}
+.n{
+    display: flex;
+    justify-content: space-around;
+}
+.a{
+    width: 131.77px;
+height: 41.34px;
+background: #FB982F;
+
+}
+button{
+    width: 131.77px;
+    height: 41.34px;
+    background-color: black;
+    color: white;
+}
+.m{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.l{
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    color: #fff;
+}
+p{
+    color: #fff;
+}
